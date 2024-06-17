@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Data Analyst | Web Designer <br><br><br>📫 How to reach me: You can contact me through LinkedIn or by email: juansebastiansaavedra98@gmail.com<br><br><br>
+🌱 Data Analyst | Web Developer <br><br><br>📫 How to reach me: You can contact me through LinkedIn or by email: juansebastiansaavedra98@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
