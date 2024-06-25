@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 WordPress Developer | Data Analyst <br><br><br>📫 How to reach me: You can contact me through LinkedIn or by email: juansebastiansaavedra98@gmail.com<br><br><br>
+🌱 WordPress Developer | Data Analyst | Data Scientist <br><br><br>📫 How to reach me: You can contact me through LinkedIn or by email: juansebastiansaavedra98@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
