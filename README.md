@@ -2,12 +2,12 @@
 🌱 Web Developer | WordPress | Shopify | Webflow | Data Scientist <br><br><br>📫 How to reach me: You can contact me through LinkedIn or by email: juansebastiansaavedra98@gmail.com<br><br><br>
 
 # 💻 Some Projects:
-[Growbo](https://www.growbo.com/)
-[MBC](https://www.mbcgroup.ai/)
-[Trademum](https://trademum.com/)
-[Dark Horse Rowing](https://wordpress-963544-4379004.cloudwaysapps.com/)
-[Bold Marketing](https://boldmarketing.co.za/)
-[Backyards 360](https://backyards-360---4-0.webflow.io/)
+-[Growbo](https://www.growbo.com/)<br>
+-[MBC](https://www.mbcgroup.ai/)<br>
+-[Trademum](https://trademum.com/)<br>
+-[Dark Horse Rowing](https://wordpress-963544-4379004.cloudwaysapps.com/)<br>
+-[Bold Marketing](https://boldmarketing.co.za/)<br>
+-[Backyards 360](https://backyards-360---4-0.webflow.io/)<br>
 
 
 
