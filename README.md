@@ -1,6 +1,15 @@
 # 💫 About Me:
 🌱 Web Developer | WordPress | Shopify | Webflow | Data Scientist <br><br><br>📫 How to reach me: You can contact me through LinkedIn or by email: juansebastiansaavedra98@gmail.com<br><br><br>
 
+# 💻 Some Projects:
+[Growbo](https://www.growbo.com/)
+[MBC](https://www.mbcgroup.ai/)
+[Trademum](https://trademum.com/)
+[Dark Horse Rowing](https://wordpress-963544-4379004.cloudwaysapps.com/)
+[Bold Marketing](https://boldmarketing.co.za/)
+[Backyards 360](https://backyards-360---4-0.webflow.io/)
+
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jsebastiansaavedra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jsebastiansaavedra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21083919) 
